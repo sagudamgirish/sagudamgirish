@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭  **I'm currently working on** — Completing my B.Tech in AIML and exploring new areas in Machine Learning & Data Analytics
+🔭 **I'm currently working on** — Pursuing my B.Tech 3rd year in AIML while exploring Machine Learning, Data Analytics, and Data Science
 
 👯  **I'm looking to collaborate on** — Data Analysis projects, ML experiments, and open-source Python tools
 
