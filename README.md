@@ -8,7 +8,7 @@
 
 - 🔭 **Currently** — 4th-year B.Tech AIML student building real-world ML, AI, and Data Analytics projects
 - 🛠️ **Built** — A live-deployed AI online exam proctoring system (YOLOv8 + MediaPipe + OpenCV), an NLP sentiment analysis system on 500K+ Amazon reviews, a 22,998-title OTT analytics project, and an interactive Power BI sales dashboard
-- 🌱 **Currently Learning** — Power BI (DAX & data modeling), Tableau, Deep Learning, Advanced SQL, and Data Science with Python
+- 🌱 **Currently Learning** — Agentic AI, AWS Services, Advanced SQL, and Advanced Python
 - 💬 **Ask me about** — Python, Machine Learning, Computer Vision, NLP, Data Analysis, SQL, Power BI, FastAPI, and Streamlit apps
 - 🤝 **Looking for** — Data Analytics and AI/ML internship opportunities
 - ⚡ **Fun fact** — I love survival horror games like Resident Evil 🎮 and cricket 🏏
