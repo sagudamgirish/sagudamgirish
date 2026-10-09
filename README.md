@@ -6,11 +6,11 @@
 
 ## 💫 About Me
 
-- 🔭 **Currently** — 3rd-year B.Tech AIML student building real-world ML and Data Analytics projects
-- 🛠️ **Built** — A live-deployed NLP sentiment analysis system (500K+ Amazon reviews, 75% accuracy) and a full-scale OTT data analytics dashboard (22,998 titles)
-- 🌱 **Currently Learning** — Tableau, Deep Learning, Advanced SQL, and Data Science with Python
-- 💬 **Ask me about** — Python, Machine Learning, NLP, Data Analysis, SQL, and Streamlit apps
-- 🤝 **Looking for** — Data Analytics and ML internship opportunities
+- 🔭 **Currently** — 4th-year B.Tech AIML student building real-world ML, AI, and Data Analytics projects
+- 🛠️ **Built** — A live-deployed AI online exam proctoring system (YOLOv8 + MediaPipe + OpenCV), an NLP sentiment analysis system on 500K+ Amazon reviews, a 22,998-title OTT analytics project, and an interactive Power BI sales dashboard
+- 🌱 **Currently Learning** — Power BI (DAX & data modeling), Tableau, Deep Learning, Advanced SQL, and Data Science with Python
+- 💬 **Ask me about** — Python, Machine Learning, Computer Vision, NLP, Data Analysis, SQL, Power BI, FastAPI, and Streamlit apps
+- 🤝 **Looking for** — Data Analytics and AI/ML internship opportunities
 - ⚡ **Fun fact** — I love survival horror games like Resident Evil 🎮 and cricket 🏏
 
 ---
@@ -26,12 +26,23 @@
 
 ## 🚀 Projects
 
+### 🎥 AI-Based Online Examination Proctoring System
+> Python · FastAPI · REST APIs · YOLOv8 · MediaPipe · OpenCV · MySQL · Vercel · Railway
+
+- Developed an AI-powered online examination platform with **real-time proctoring** using YOLOv8, MediaPipe, and OpenCV
+- Detects **mobile phones, multiple persons, face absence, and looking away**, with violation tracking and risk scoring
+- Built **FastAPI REST APIs** and an Aiven-hosted MySQL backend for exam management, result processing, and student/faculty operations
+- Deployed with **Vercel (frontend)** and **Railway (backend)** for live access
+
+🔗 [GitHub Repository](https://github.com/sagudamgirish/ai-proctoring-system) · [Live Demo](ADD_LIVE_DEMO_LINK)
+
+---
+
 ### 📊 OTT Audience Intelligence Dashboard
 > Python · SQL · MySQL · Pandas · NumPy · Matplotlib · Data Visualization
 
 - Analyzed **22,998 OTT titles** across Netflix, Amazon Prime, Hulu, and Disney+ using Python and SQL to generate platform-wise business insights
 - Performed data cleaning, feature engineering, and EDA; created **14 visualizations** covering genres, ratings, countries, and content trends
-- Developed SQL-based analytics in MySQL for platform performance, content distribution, and release-year growth analysis
 
 🔗 [GitHub Repository](https://github.com/sagudamgirish/OTT-Audience-Intelligence-Dashboard)
 
@@ -40,11 +51,22 @@
 ### 🤖 AI-Powered Product Review Sentiment Analysis System
 > Python · Scikit-learn · TF-IDF · Logistic Regression · NLP · Streamlit · Groq LLaMA 3.1 · Pandas
 
-- Preprocessed **500K+ Amazon product reviews**; applied class balancing across positive, negative & neutral classes
-- Trained TF-IDF + Logistic Regression classifier achieving **75% accuracy**; built feature-wise NLP pipeline across 5 product attributes
-- Deployed a Streamlit web app with real-time prediction, pie-chart visualisation, and AI-generated summaries via Groq LLaMA 3.1 API
+- Built an ML-based sentiment system using TF-IDF and Logistic Regression to classify product reviews as **Positive, Negative, or Neutral** (trained on 500K+ Amazon reviews, ~75% accuracy)
+- Developed an interactive Streamlit app with phone-model selection, sentiment distribution visualization, review submission, and product-specific analysis
+- Implemented dynamic dataset updates and deployed on Streamlit Cloud for real-time access
 
 🔗 [Live App](https://customer-review-analyzer.streamlit.app) · [GitHub Repository](https://github.com/sagudamgirish/product-review-system)
+
+---
+
+### 📱 Mobile Sales Dashboard
+> Microsoft Power BI · Power Query · DAX
+
+- Developed an interactive Power BI dashboard analyzing mobile sales across **brands, models, and regions** to support data-driven decisions
+- Cleaned and transformed raw data with Power Query; built **DAX measures** for Total Sales, Total Transactions, Quantity Sold, and Average Sales
+- Designed a multi-visual dashboard (bar, line, map, pie charts, KPI cards) with slicers for Month, Brand, Model, Payment Method, and Day
+
+🔗 [GitHub Repository](ADD_MOBILE_SALES_DASHBOARD_REPO_LINK)
 
 ---
 
@@ -56,13 +78,22 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & ML Libraries**
+**Data Analysis & Business Intelligence**
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Machine Learning, AI & Backend**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&labelColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+*Also: YOLOv8, MediaPipe, TF-IDF, Groq LLaMA 3.1 API, REST APIs, Seaborn, DAX, Power Query, Aiven*
 
 **Tools & Platforms**
 
@@ -71,6 +102,8 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -78,10 +111,11 @@
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
-| 🎓 Python for Data Science — **Elite** (Score: 68%) | NPTEL IIT Madras | Jan–Feb 2026 |
+| 📊 Microsoft Power BI (Self-Learning) | Skill Course | Jul 2026 |
 | 🤖 Future Skills Edge Program: Artificial Intelligence (80 hrs) | Honeywell & BharatCares | Feb–Mar 2026 |
+| 🎓 Python for Data Science — **Elite** (Score: 68%) | NPTEL IIT Madras | Jan–Feb 2026 |
 | 🐍 Python Essentials 1 | Cisco Networking Academy | Oct 2025 |
-| 📊 Data Analytics Job Simulation | Deloitte (Forage) | Oct 2025 |
+| 📈 Data Analytics Job Simulation | Deloitte (Forage) | Oct 2025 |
 | ☁️ Industrial Training: AWS, Big Data, Python & Data Science | NSIC (Govt. of India) | Nov 2023 |
 
 ---
